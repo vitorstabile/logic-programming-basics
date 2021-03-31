@@ -31,7 +31,7 @@
 
 # Project Status <a name="projectstatus"></a>
 
-Project Status: Under Development :warning:
+Project Status: Concluded :heavy_check_mark:
 
 # About the Project <a name="abouttheproject"></a>
 
@@ -340,14 +340,7 @@ See the [![Issues][issues-shield]][issues-url]  for a list of proposed features 
 
 # To Do <a name="todo"></a>
 
-If so, list tasks / features that still need to be implemented in your application
-
-:memo: To Do 1 
-
-:memo: To Do 2
-
-:memo: To Do 3 
-
+Project Completed
 
 # Contacts <a name="contacts"></a>
 
