@@ -52,9 +52,19 @@ Project Status: Under Development :warning:
 
 # About the Project <a name="abouttheproject"></a>
 
-This project have a propose to introduce the reader the basics of logic programming with C.
+This project have a propose to introduce the reader the basics of logic programming.
 
 In my [GitHub profile][github-url], you will see repositories named as "logic-programming-in-(language name)-basics". This repositories concist in tutorials to introduce the reader the basics in logical programming using the most usable languages in the market.
+
+This project make a introduce to programming logic. Read this tutorial first, choose a programming language and go to this repositories according to the choose programming language:
+
+- [C]
+- [C++]
+- [C#]
+- [Java]
+- [Python]
+- [JavaScript]
+- [MATLAB]
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
