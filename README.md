@@ -302,7 +302,7 @@ Hybrid compiler is a compiler which translates a human readable source code to a
 
 #### <a name="chapter5part2"></a>Chapter 5 - Part 2: Programming Languages Tutorials
 
-I elaborate some tutorial for some programming languages. In this tutorials, 
+I elaborated some tutorial for some programming languages, approaching just the logic programming concepts of the language (Sequential Structures, Conditional Structures, Repetitive Structures, Vectors nad Matrices).
 
 - [C][c-url]
 - [C++][cpp-url]
