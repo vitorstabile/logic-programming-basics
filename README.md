@@ -103,7 +103,7 @@ Example of a bubble sort algorithm:
 
 <br>
 
-<div align="center"><img src="img/chapter1/bubble-sort-w388-h291.png" width=388 height=291><br><sub>[Fig 1 - Bubble Sort Algorithm Working] src:[https://gaebster.ch/bubblesort/]</sub></div>
+<div align="center"><img src="img/chapter1/bubble-sort-w388-h291.png" width=388 height=291><br><sub> Fig 1 - Bubble Sort Algorithm Working - [scr: Gaebster][https://gaebster.ch/bubblesort/]</sub></div>
 
 <br>
 
