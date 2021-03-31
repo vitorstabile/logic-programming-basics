@@ -19,7 +19,7 @@
     - [Chapter 4 - Part 2: Compilation](#chapter4part2)
     - [Chapter 4 - Part 3: Compiled Languages vs Interpreted Languages](#chapter4part3)
     - [Chapter 4 - Part 4: Hybrid Languages](#chapter4part4)
-8. [Chapter5: What Programming Language Choose?](#chapter5)
+8. [Chapter 5: What Programming Language Choose?](#chapter5)
     - [Chapter 5 - Part 1: Choose Your Path](#chapter5part1)
     - [Chapter 5 - Part 2: Next Step](#chapter5part2)
 10. [Usage](#usage)
