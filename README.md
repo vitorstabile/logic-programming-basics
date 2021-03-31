@@ -51,7 +51,7 @@ This project make a introduce to programming logic. Read this tutorial first, ch
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
-This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url].
+This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url] and the Youtube Channel [DevSuperior][devsuperior-url].
 
 # Project Description <a name="projectdescription"></a>
 
@@ -431,4 +431,5 @@ https://unsplash.com/
 [javascript-url]: https://github.com/vitorstabile/logic-programming-in-javascript-basics
 [matlab-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
+[devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
 [cormen-url]: https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996
