@@ -137,7 +137,7 @@ A computer have Hardware (Physical parts - machine):
 
 <br>
 
-<div align="center"><img src="img/chapter1/computer-cross-section-w534-h397.gif" width=534 height=397><br><sub>Fig 4 - Computer Hardware</sub></div>
+<div align="center"><img src="img/chapter1/computer-cross-section-w534-h397.gif" width=534 height=397><br><sub>Fig 4 - Computer Hardware (https://farsamoyaqaan.com/primary-parts-of-a-computer/)</sub></div>
 
 <br>
 
