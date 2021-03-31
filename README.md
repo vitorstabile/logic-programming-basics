@@ -269,7 +269,7 @@ On the other hand, in interpreted languages there are no build steps. Instead, i
 
 <br>
 
-<div align="center"><img src="img/chapter4/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Compiler Vs Interpreter</sub></div>
+<div align="center"><img src="img/chapter4/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 8 - Compiled Vs Interpreted (https://medium.com/from-the-scratch/stop-it-there-are-no-compiled-and-interpreted-languages-512f84756664)</sub></div>
 
 <br>
 
