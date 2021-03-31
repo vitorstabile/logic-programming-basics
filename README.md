@@ -291,7 +291,7 @@ Java is one good example for these types of compilers.
 
 <br>
 
-<div align="center"><img src="img/chapter4/hybrid-compiler-w847-h674.png" width=847 height=674><br><sub>Fig 9 - Hybrid Language (https://techvidvan.com/tutorials/features-of-java-programming-language/)</sub></div>
+<div align="center"><img src="img/chapter4/working-of-java-virtual-machine-w720-h200.jpg" width=720 height=200><br><sub>Fig 9 - Hybrid Language (https://techvidvan.com/tutorials/features-of-java-programming-language/)</sub></div>
 
 <br>
 
