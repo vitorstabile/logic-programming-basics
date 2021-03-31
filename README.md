@@ -145,7 +145,7 @@ And a Software (Logical parts - Programms):
 
 <br>
 
-<div align="center"><img src="img/chapter1/conceptual-view-operation-system-w343-h355.jpg" width=343 height=355><br><sub>Fig 5 - Computer Softwares</sub></div>
+<div align="center"><img src="img/chapter1/conceptual-view-operation-system-w343-h355.jpg" width=343 height=355><br><sub>Fig 5 - Computer Softwares (https://bcastudyguide.wordpress.com/unit-1-introduction-of-os/)</sub></div>
 
 <br>
 
