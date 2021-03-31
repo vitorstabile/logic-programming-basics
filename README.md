@@ -257,7 +257,7 @@ Compilation is the process the computer takes to convert a high-level programmin
 
 <br>
 
-<div align="center"><img src="img/chapter4/compiler-phases-w1269-h351.png" width=1269 height=351><br><sub>Fig 10 - Compiler Process</sub></div>
+<div align="center"><img src="img/chapter4/compiler-phases-w1269-h351.png" width=1269 height=351><br><sub>Fig 7 - Compiler Process (https://www.guru99.com/compiler-design-phases-of-compiler.html)</sub></div>
 
 <br>
 
