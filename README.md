@@ -305,7 +305,7 @@ Java is one good example for these types of compilers.
 
 <br>
 
-<div align="center"><img src="img/chapter5/choose-language-w1080-h-1080.png" width=1080 height=1080><br><sub>Fig 13 - Choose Your Path (https://buggyprogrammer.com/blogs/first-programming-language/)</sub></div>
+<div align="center"><img src="img/chapter5/choose-language-w1080-h-1080.png" width=1080 height=1080><br><sub>Fig 10 - Choose Your Path (https://buggyprogrammer.com/blogs/first-programming-language/)</sub></div>
 
 <br>
 
