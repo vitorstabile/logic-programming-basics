@@ -8,7 +8,6 @@
 4. [Chapter 1: Introduction](#chapter1)
     - [Chapter 1 - Part 1: Algorithms](#chapter1part1)
     - [Chapter 1 - Part 2: Automation and Computers](#chapter1part2)
-    - [Chapter 1 - Part 3: Programming Language](#chapter1part3)
 5. [Chapter 2: Programming Language](#chapter2)
     - [Chapter 2 - Part 1: Low-Level vs. High-Level](#chapter2part1)
     - [Chapter 2 - Part 2: Lexical Rules and Syntax Rules](#chapter2part2)
