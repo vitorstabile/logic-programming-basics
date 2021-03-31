@@ -601,7 +601,7 @@ https://unsplash.com/
 [csharp-url]: https://github.com/vitorstabile/logic-programming-in-csharp-basics
 [java-url]: https://github.com/vitorstabile/logic-programming-in-java-basics
 [python-url]: https://github.com/vitorstabile/logic-programming-in-python-basics
-[javascript-url]:
-[matlab-url]:
+[javascript-url]: https://github.com/vitorstabile/logic-programming-in-javascript-basics
+[matlab-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
 [cormen-url]: https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996
