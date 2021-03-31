@@ -18,13 +18,16 @@
     - [Chapter 4 - Part 2: Compilation](#chapter4part2)
     - [Chapter 4 - Part 3: Compiled Languages vs Interpreted Languages](#chapter4part3)
     - [Chapter 4 - Part 4: Hybrid Languages](#chapter4part4)
-8. [Usage](#usage)
-9. [Contributors](#contributors)
-10. [Contributing](#contributing)
-11. [Roadmap](#roadmap)
-12. [To Do](#todo)
-13. [Contacts](#contacts)
-14. [License](#license)
+8. [What Programming Language Choose?](#chapter5)
+    - [Chapter 5 - Part 1: Choose your path](#chapter5part1)
+    - [Chapter 5 - Part 2: Programming Languages Tutorials](#chapter5part2)
+10. [Usage](#usage)
+11. [Contributors](#contributors)
+12. [Contributing](#contributing)
+13. [Roadmap](#roadmap)
+14. [To Do](#todo)
+15. [Contacts](#contacts)
+16. [License](#license)
 
 # Project Status <a name="projectstatus"></a>
 
