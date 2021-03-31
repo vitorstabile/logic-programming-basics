@@ -245,7 +245,7 @@ The source code of a program is specially designed to facilitate the work of com
 
 <br>
 
-<div align="center"><img src="img/chapter4/source-code-java-vs-python-w662-h355.png" width=662 height=355><br><sub>Fig 9 - Source Code Example - Java vs Python</sub></div>
+<div align="center"><img src="img/chapter4/source-code-java-vs-python-w662-h355.png" width=662 height=355><br><sub>Fig 6 - Source Code Example - Java vs Python (https://belitsoft.com/java-development-services/java-vs-python-tried-and-true-vs-modern-and-new)</sub></div>
 
 <br>
 
