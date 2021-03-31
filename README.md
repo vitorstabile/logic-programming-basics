@@ -7,7 +7,8 @@
 3. [Project Description](#projectdescription)
 4. [Chapter 1: Introduction](#chapter1)
     - [Chapter 1 - Part 1: Algorithms](#chapter1part1)
-    - [Chapter 1 - Part 2: Automation and Computers](#chapter1part2)
+    - [Chapter 1 - Part 2: Automation](#chapter1part2)
+    - [Chapter 1 - Part 3: What is Computers](#chapter1part3)
 5. [Chapter 2: Programming Language](#chapter2)
     - [Chapter 2 - Part 1: Low-Level vs. High-Level](#chapter2part1)
     - [Chapter 2 - Part 2: Lexical Rules and Syntax Rules](#chapter2part2)
@@ -108,7 +109,7 @@ Example of a bubble sort algorithm:
 <br>
 
 
-#### <a name="chapter1part2"></a>Chapter 1 - Part 2: Automation and Computers
+#### <a name="chapter1part2"></a>Chapter 1 - Part 2: Automation
 
 Automation describes a wide range of technologies that reduce human intervention in processes. 
 
@@ -122,7 +123,7 @@ In the example of the algorithm to make a cake, we can automation the process wi
 
 The automation machine that is capable to automate the bubble sort algorithm is the computer.
 
-What is a Computer?
+#### <a name="chapter1part3"></a>Chapter 1 - Part 3: What is Computers
 
 A machine that is capable to automate calculos algorithms. Down below, a simple reference what is a computer:
 
