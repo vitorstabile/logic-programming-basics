@@ -242,7 +242,7 @@ Programm language have a lexical rules (orthography) and syntax rules (grammar) 
 
 ## <a name="chapter3"></a>Chapter 3: IDE
 
-#### <a name="chapter2part1"></a>Chapter 3 - Part 1: IDE
+#### <a name="chapter3part1"></a>Chapter 3 - Part 1: IDE
 
 An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
 
@@ -282,7 +282,7 @@ On the other hand, in interpreted languages there are no build steps. Instead, i
     - Ruby
     - Python
 
-#### <a name="chapter4part3"></a>Chapter 4 - Part 4: Chapter 4 - Part 4: Hybrid Languages
+#### <a name="chapter4part4"></a>Chapter 4 - Part 4: Chapter 4 - Part 4: Hybrid Languages
 
 Hybrid compiler is a compiler which translates a human readable source code to an intermediate byte code for later interpretation. So these languages do have both features of a compiler and an interpreter. These types of compilers are commonly known as Just In-time Compilers (JIT).
 
