@@ -161,20 +161,6 @@ To make a Computer Programm we need four things:
 
 - **Code generator or virtual machine**: Software that allows the program to run.
 
-<br>
-
-<div align="center"><img src="img/chapter1/structural-operating-system-w500-h333.png" width=500 height=333><br><sub>Fig 6 - Computer Input/Processing/Output Diagram Software Level</sub></div>
-
-<br>
-
-<div align="center"><img src="img/chapter1/computer-system-block-w859-h477.jpg" width=859 height=477><br><sub>Fig 7 - Computer Input/Processing/Output Diagram Hardware Level</sub></div>
-
-<br>
-
-<div align="center"><img src="img/chapter1/conceptual-view-operation-system-w343-h355.jpg" width=343 height=355><br><sub>Fig 8 - Computer Input/Processing/Output Common Diagram Common Level</sub></div>
-
-<br>
-
 The Bubble Algorithm can be automatize with the C program Language. Bellow, there is the source code of the programm:
 
 ```c
