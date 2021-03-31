@@ -125,11 +125,11 @@ The automation machine that is capable to automate the bubble sort algorithm is 
 
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: What is Computers
 
-A machine that is capable to automate calculos algorithms. Down below, a simple reference what is a computer:
+A machine that is capable to automate calculos algorithms. Usually, it represents a computer in an abstract form by a very simple diagram showing a processing unit capable of using data that comes from or must be stored both in memory and in input and output devices:
 
 <br>
 
-<div align="center"><img src="img/chapter1/computer-component-w600-h436.JPG" width=600 height=436><br><sub>Fig 3 - Basic Computer</sub></div>
+<div align="center"><img src="img/chapter1/von-neumann-architecture-w500-h476.png" width=500 height=476><br><sub>Fig 3 - Basic Computer Diagram Von Neumann (https://pt.wikibooks.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_programa%C3%A7%C3%A3o/Como_programar)</sub></div>
 
 <br>
 
