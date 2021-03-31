@@ -334,10 +334,7 @@ I elaborated some tutorial for some programming languages, approaching just the 
 
 # Usage <a name="usage"></a>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more
-resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Using this like a bibliography if you want to remember logic programming concepts.
 
 # Contributors <a name="contributors"></a>
 
