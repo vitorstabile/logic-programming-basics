@@ -18,8 +18,8 @@
     - [Chapter 4 - Part 2: Compilation](#chapter4part2)
     - [Chapter 4 - Part 3: Compiled Languages vs Interpreted Languages](#chapter4part3)
     - [Chapter 4 - Part 4: Hybrid Languages](#chapter4part4)
-8. [What Programming Language Choose?](#chapter5)
-    - [Chapter 5 - Part 1: Choose your path](#chapter5part1)
+8. [Chapter5: What Programming Language Choose?](#chapter5)
+    - [Chapter 5 - Part 1: Choose Your Path](#chapter5part1)
     - [Chapter 5 - Part 2: Programming Languages Tutorials](#chapter5part2)
 10. [Usage](#usage)
 11. [Contributors](#contributors)
@@ -293,6 +293,24 @@ Java is one good example for these types of compilers.
 - Example of Hybrid Languages:
     - Java (Virtual Machine: JVM)
     - C# (Virtual Machine: Microsoft .NET Framework)
+
+## <a name="chapter5"></a>Chapter 5: What Programming Language Choose?
+
+#### <a name="chapter5part1"></a>Chapter 5 - Part 1: Choose Your Path
+
+Hybrid compiler is a compiler which translates a human readable source code to an intermediate byte code for later interpretation. So these languages do have both features of a compiler and an interpreter. These types of compilers are commonly known as Just In-time Compilers (JIT).
+
+#### <a name="chapter5part2"></a>Chapter 5 - Part 2: Programming Languages Tutorials
+
+I elaborate some tutorial for some programming languages. In this tutorials, 
+
+- [C][c-url]
+- [C++][cpp-url]
+- [C#][csharp-url]
+- [Java][java-url]
+- [Python][python-url]
+- [JavaScript][javascript-url]
+- [MATLAB][matlab-url]
 
 # Usage <a name="usage"></a>
 
