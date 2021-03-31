@@ -35,7 +35,9 @@ Project Status: Concluded :heavy_check_mark:
 
 # About the Project <a name="abouttheproject"></a>
 
-This project have a propose to introduce the reader the basics of logic programming.
+Many curious people like me have already asked themselves: How does a computer work?
+
+The purpose of this tutorial is to serve as a base for anyone who wants to dive, or just get to know, the wonderful world of programming, even if they know little or nothing about the subject.
 
 In my [GitHub profile][github-url], you will see repositories named as "logic-programming-in-(language name)-basics". This repositories concist in tutorials to introduce the reader the basics in logical programming using the most usable languages in the market.
 
@@ -51,7 +53,7 @@ This project make a introduce to programming logic. Read this tutorial first, ch
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
-This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url] and the Youtube Channel [DevSuperior][devsuperior-url].
+This tutorial was based in the course from Phd Professor [Nelio Alves - Algorithms and Programming Logical][logicalcourse-url], the Youtube Channel [DevSuperior][devsuperior-url] and the WikiBook [Introduction to Programming][program-introduction-url].
 
 # Project Description <a name="projectdescription"></a>
 
@@ -432,4 +434,5 @@ https://unsplash.com/
 [matlab-url]: https://github.com/vitorstabile/logic-programming-in-matlab-basics
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
 [devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
+[program-introduction-url]: https://pt.wikibooks.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_programa%C3%A7%C3%A3o
 [cormen-url]: https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996
