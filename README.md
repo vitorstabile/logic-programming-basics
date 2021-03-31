@@ -101,9 +101,11 @@ Example of a bubble sort algorithm:
 6. Repeat steps 1–5 until no more swaps are required. (processing)
 7. Show in the screen the sorted array (Output)
 
+[gaebster][fig1-url]
+
 <br>
 
-<div align="center"><img src="img/chapter1/bubble-sort-w388-h291.png" width=388 height=291><br><sub>Fig 1 - Bubble Sort Algorithm Working src [gaebster][fig1-url]</sub></div>
+<div align="center"><img src="img/chapter1/bubble-sort-w388-h291.png" width=388 height=291><br><sub>Fig 1 - Bubble Sort Algorithm Working</sub></div>
 
 <br>
 
