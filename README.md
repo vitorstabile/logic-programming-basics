@@ -58,13 +58,13 @@ In my [GitHub profile][github-url], you will see repositories named as "logic-pr
 
 This project make a introduce to programming logic. Read this tutorial first, choose a programming language and go to this repositories according to the choose programming language:
 
-- [C]
-- [C++]
-- [C#]
-- [Java]
-- [Python]
-- [JavaScript]
-- [MATLAB]
+- [C][c-url]
+- [C++][cpp-url]
+- [C#][csharp-url]
+- [Java][java-url]
+- [Python][python-url]
+- [JavaScript][javascript-url]
+- [MATLAB][matlab-url]
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
@@ -596,5 +596,12 @@ https://unsplash.com/
 [issues-url]: https://github.com/vitorstabile/logic-programming-basics/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/logic-programming-basics/blob/main/LICENSE.txt
+[c-url]: https://github.com/vitorstabile/logic-programming-in-c-basics
+[cpp-url]: https://github.com/vitorstabile/logic-programming-in-cpp-basics
+[csharp-url]: https://github.com/vitorstabile/logic-programming-in-csharp-basics
+[java-url]: https://github.com/vitorstabile/logic-programming-in-java-basics
+[python-url]: https://github.com/vitorstabile/logic-programming-in-python-basics
+[javascript-url]:
+[matlab-url]:
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
 [cormen-url]: https://www.amazon.com/Introduction-Algorithms-third-Thomas-Cormen-ebook/dp/B08FH8N996
