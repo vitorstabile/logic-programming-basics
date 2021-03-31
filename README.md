@@ -20,7 +20,7 @@
     - [Chapter 4 - Part 4: Hybrid Languages](#chapter4part4)
 8. [Chapter5: What Programming Language Choose?](#chapter5)
     - [Chapter 5 - Part 1: Choose Your Path](#chapter5part1)
-    - [Chapter 5 - Part 2: Programming Languages Tutorials](#chapter5part2)
+    - [Chapter 5 - Part 2: Next Step](#chapter5part2)
 10. [Usage](#usage)
 11. [Contributors](#contributors)
 12. [Contributing](#contributing)
@@ -320,7 +320,7 @@ Java is one good example for these types of compilers.
 
 <br>
 
-#### <a name="chapter5part2"></a>Chapter 5 - Part 2: Programming Languages Tutorials
+#### <a name="chapter5part2"></a>Chapter 5 - Part 2: Next Step
 
 I elaborated some tutorial for some programming languages, approaching just the logic programming concepts of the language (Sequential Structures, Conditional Structures, Repetitive Structures, Vectors nad Matrices).
 
