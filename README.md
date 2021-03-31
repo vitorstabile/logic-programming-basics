@@ -254,7 +254,7 @@ In computing, source code is any collection of code, with or without comments, w
 
 The source code of a program is specially designed to facilitate the work of computer programmers, who specify the actions to be performed by a computer mostly by writing source code.
 
-<div align="center"><img src="img/chapter1/source-code-java-vs-python-w662-h355.png" width=662 height=355><br><sub>Fig 9 - Source Code Example - Java vs Python</sub></div>
+<div align="center"><img src="img/chapter4/source-code-java-vs-python-w662-h355.png" width=662 height=355><br><sub>Fig 9 - Source Code Example - Java vs Python</sub></div>
 
 To computer understand the source code, this code have to be  assembler or compiler into binary machine code that can be executed by the computer.
 
@@ -262,7 +262,7 @@ To computer understand the source code, this code have to be  assembler or compi
 
 Compilation is the process the computer takes to convert a high-level programming language into a machine language that the computer can understand. The software which performs this conversion is called a compiler.
 
-<div align="center"><img src="img/chapter1/compiler-phases-w1269-h351.png" width=1269 height=351><br><sub>Fig 10 - Compiler Process</sub></div>
+<div align="center"><img src="img/chapter4/compiler-phases-w1269-h351.png" width=1269 height=351><br><sub>Fig 10 - Compiler Process</sub></div>
 
 #### <a name="chapter4part3"></a>Chapter 4 - Part 3: Compiled Languages vs Interpreted Languages
 
@@ -270,7 +270,7 @@ Compiled languages are converted directly into machine native code by a compiler
 
 On the other hand, in interpreted languages there are no build steps. Instead, interpreters operate on the source code of the program while executing it.Interpreted languages were once considered significantly slower than compiled languages.
 
-<div align="center"><img src="img/chapter1/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Compiler Vs Interpreter</sub></div>
+<div align="center"><img src="img/chapter4/compiler-vs-interpreter-w991-h483.png" width=991 height=483><br><sub>Fig 11 - Compiler Vs Interpreter</sub></div>
 
 - Example of Compiled Languages:
     - C
@@ -288,7 +288,7 @@ Hybrid compiler is a compiler which translates a human readable source code to a
 
 Java is one good example for these types of compilers.
 
-<div align="center"><img src="img/chapter1/hybrid-compiler-w847-h674.png" width=847 height=674><br><sub>Fig 12 - Hybrid Language</sub></div>
+<div align="center"><img src="img/chapter4/hybrid-compiler-w847-h674.png" width=847 height=674><br><sub>Fig 12 - Hybrid Language</sub></div>
 
 - Example of Hybrid Languages:
     - Java (Virtual Machine: JVM)
