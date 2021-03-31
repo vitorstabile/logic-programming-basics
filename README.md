@@ -202,14 +202,14 @@ int main() {
   return 0;
 }
 ```
-    
-#### <a name="chapter1part3"></a>Chapter 1 - Part 3: Programming Language
+
+## <a name="chapter2"></a>Chapter 2: Programming Language
+
+#### <a name="chapter2part1"></a>Chapter 2 - Part 1: Low-Level vs. High-Level
 
 Programming languages are the tools we use to write instructions for computers to follow. 
 
 Computers “think” in binary — strings of 1s and 0s. Programming languages allow us to translate the 1s and 0s into something that humans can understand and write. A programming language is made up of a series of symbols that serves as a bridge that allow humans to translate our thoughts into instructions computers can understand.
-
-**Low-Level vs. High-Level Programming Languages**
 
 Programming languages fall into two different classifications — low-level and high-level.
 
@@ -217,7 +217,7 @@ Low-level programming languages are closer to machine code, or binary. Therefore
 
 High-level programming languages are closer to how humans communicate. High-level languages use words (like object, order, run, class, request, etc.) that are closer to the words we use in our everyday lives. This means they’re easier to program in than low-level programming languages, although they do take more time to translate into machine code for the computer.
 
-**Lexical Rules and Syntax Rules**
+#### <a name="chapter2part2"></a>Chapter 2 - Part 2: Lexical Rules and Syntax Rules
 
 Programm language have a lexical rules (orthography) and syntax rules (grammar) to write programms.
 
@@ -240,13 +240,15 @@ Programm language have a lexical rules (orthography) and syntax rules (grammar) 
     | Daniel is a He in judgment (Wrong)              | x = + 2 y (Wrong)               |
     
 
-#### <a name="chapter1part4"></a>Chapter 1 - Part 4: IDE
+## <a name="chapter3"></a>Chapter 3: IDE
+
+#### <a name="chapter2part1"></a>Chapter 3 - Part 1: IDE
 
 An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger.
 
-#### <a name="chapter1part5"></a>Chapter 1 - Part 5: Compiler and Interpreter
+## <a name="chapter4"></a>Chapter 4: Compiler and Interpreter
 
-**Source Code**
+#### <a name="chapter4part1"></a>Chapter 4 - Part 1: Source Code
 
 In computing, source code is any collection of code, with or without comments, written using a human-readable programming language, usually as plain text. 
 
@@ -256,13 +258,13 @@ The source code of a program is specially designed to facilitate the work of com
 
 To computer understand the source code, this code have to be  assembler or compiler into binary machine code that can be executed by the computer.
 
-**Compilation**
+#### <a name="chapter4part2"></a>Chapter 4 - Part 2: Compilation
 
 Compilation is the process the computer takes to convert a high-level programming language into a machine language that the computer can understand. The software which performs this conversion is called a compiler.
 
 <div align="center"><img src="img/chapter1/compiler-phases-w1269-h351.png" width=1269 height=351><br><sub>Fig 10 - Compiler Process</sub></div>
 
-**Compiled Languages vs Interpreted Languages**
+#### <a name="chapter4part3"></a>Chapter 4 - Part 3: Compiled Languages vs Interpreted Languages
 
 Compiled languages are converted directly into machine native code by a compiler program.They require an explicit build step before execution. That is why we need to rebuild the program every time we make a code change.Compiled languages tend to be faster and more efficient than interpreted languages. However, their generated machine code is platform-specific.
 
@@ -280,7 +282,7 @@ On the other hand, in interpreted languages there are no build steps. Instead, i
     - Ruby
     - Python
 
-**Hybrid Languages**
+#### <a name="chapter4part3"></a>Chapter 4 - Part 4: Chapter 4 - Part 4: Hybrid Languages
 
 Hybrid compiler is a compiler which translates a human readable source code to an intermediate byte code for later interpretation. So these languages do have both features of a compiler and an interpreter. These types of compilers are commonly known as Just In-time Compilers (JIT).
 
