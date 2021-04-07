@@ -40,7 +40,7 @@ Many curious people like me have already asked themselves: How does a computer w
 
 The purpose of this tutorial is to serve as a base for anyone who wants to dive, or just get to know, the wonderful world of programming, even if they know little or nothing about the subject.
 
-In my [GitHub profile][github-url], you will see repositories named as "logic-programming-in-(language name)-basics". This repositories concist in tutorials to introduce the reader the basics in logical programming using the most usable languages in the market.
+This project is a part of a big project with basic concepts in computer science. Go to my [GitHub profile][github-url] to see more projects.
 
 This project make a introduce to programming logic. Read this tutorial first, choose a programming language and go to this repositories according to the choose programming language:
 
