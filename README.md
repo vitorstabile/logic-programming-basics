@@ -81,6 +81,12 @@ Nowadays, not knowing how to work with computers is considered illiteracy (illit
 
 When we use computers, we can do many things. A child can use the Internet to send a message, a student can use a spreadsheet to calculate an average or how many points he needs to pass each subject, a cook can save his recipes in software such as Word or in a specialized product for recipes. In fact, the number of specialized products is so great that, if you look carefully, you will certainly find a program that does something very close to what you want.
 
+<br>
+
+<div align="center"><img src="img/chapter1/computer-multitask-w3000-h2000.jpg" width=450 height=300><br><sub>Fig 1 - A Computer Multitask - (<a href='https://www.freepik.com/vectors/people'>People vector created by pikisuperstar - www.freepik.com</a>) </sub></div>
+
+<br>
+
 The problem is that sometimes we want to do something specific: we want a computer program that does something that will serve us or our company in a unique way. In that case, instead of buying a ready-made program we must develop our own program. For that, it is necessary to master a new way of manipulating the computer: programming. Our motive may be a business, a schoolwork, a hobby or mere curiosity. Nowadays, programming a computer can be done in several ways. You can, for example, slightly modify the behavior of applications using macros, as is allowed in programs such as Microsoft Word. You can make even more serious modifications using built-in languages, as can also be done in Microsoft Office programs or even in computer games like Neverwinter Nights. You can also take an existing open-source program, or free software, and modify it. Or you can start from the beginning and program just about everything, certainly with the help of ready-made libraries that are part of the job.
 
 To program you have many options: packages that can be extended with built-in macros or languages, point-and-click programming environments, languages that are easier to learn and languages that are more difficult, but which have great power or features suitable for large systems. In any case, the spirit behind it is the same: programming is giving orders to the computer, showing how it should react to the user and how it should process the available data.
