@@ -42,7 +42,7 @@ The purpose of this tutorial is to serve as a base for anyone who wants to dive,
 
 This project is a part of a big project with basic concepts in computer science. Go to my [GitHub profile][github-url] to see more projects.
 
-This project make a introduce to programming logic. Read this tutorial first, choose a programming language and go to this repositories according to the choose programming language:
+This project makes a introduce to programming logic. Read this tutorial first, choose a programming language and go to these repositories according to the choose programming language:
 
 - [C][c-url]
 - [C++][cpp-url]
