@@ -32,7 +32,7 @@
 
 # Project Status <a name="projectstatus"></a>
 
-Project Status: Concluded :heavy_check_mark:
+Project Status: Under Development :warning:
 
 # About the Project <a name="abouttheproject"></a>
 
