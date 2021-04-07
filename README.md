@@ -202,7 +202,7 @@ Computers “think” in binary — strings of 1s and 0s. Programming languages 
 
 Programming languages fall into two different classifications — low-level and high-level.
 
-Low-level programming languages are closer to machine code, or binary. Therefore, they are more difficult for humans to read (although they’re still easier to understand than 1s and 0s). The benefit of low-level languages is that they are fast and offer precise control over how the computer will function.
+Low-level programming languages are closer to machine code, or binary. Therefore, they are more difficult for humans to read (although they are still easier to understand than 1s and 0s). The benefit of low-level languages is that they are fast and offer precise control over how the computer will function.
 
 High-level programming languages are closer to how humans communicate. High-level languages use words (like object, order, run, class, request, etc.) that are closer to the words we use in our everyday lives. This means they are easier to program in than low-level programming languages, although they do take more time to translate into machine code for the computer.
 
@@ -311,7 +311,7 @@ Java is one good example for these types of compilers.
 
 #### <a name="chapter5part2"></a>Chapter 5 - Part 2: Next Step
 
-I elaborated some tutorial for some programming languages, approaching just the logic programming concepts of the language (Sequential Structures, Conditional Structures, Repetitive Structures, Vectors nad Matrices).
+I elaborated some tutorial for some programming languages, approaching just the logic programming concepts of the language (Sequential Structures, Conditional Structures, Repetitive Structures, Vectors and Matrices).
 
 - [C][c-url]
 - [C++][cpp-url]
