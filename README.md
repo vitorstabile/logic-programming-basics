@@ -6,29 +6,31 @@
 2. [About the Project](#abouttheproject)
 3. [Project Description](#projectdescription)
 4. [Chapter 1: Introduction](#chapter1)
+    - [Chapter 1 - Part 1: A Global View](#chapter1part1)
+6. [Chapter 1: Introduction](#chapter1)
     - [Chapter 1 - Part 1: Algorithms](#chapter1part1)
     - [Chapter 1 - Part 2: Automation](#chapter1part2)
     - [Chapter 1 - Part 3: What are Computers](#chapter1part3)
-5. [Chapter 2: Programming Language](#chapter2)
+7. [Chapter 2: Programming Language](#chapter2)
     - [Chapter 2 - Part 1: Low-Level vs. High-Level](#chapter2part1)
     - [Chapter 2 - Part 2: Lexical Rules and Syntax Rules](#chapter2part2)
-6. [Chapter 3: IDE](#chapter3)
+8. [Chapter 3: IDE](#chapter3)
     - [Chapter 3 - Part 1: IDE](#chapter3part1)
-7. [Chapter 4: Compiler and Interpreter](#chapter4)
+9. [Chapter 4: Compiler and Interpreter](#chapter4)
     - [Chapter 4 - Part 1: Source Code](#chapter4part1)
     - [Chapter 4 - Part 2: Compilation](#chapter4part2)
     - [Chapter 4 - Part 3: Compiled Languages vs Interpreted Languages](#chapter4part3)
     - [Chapter 4 - Part 4: Hybrid Languages](#chapter4part4)
-8. [Chapter 5: What Programming Language Choose?](#chapter5)
+10. [Chapter 5: What Programming Language Choose?](#chapter5)
     - [Chapter 5 - Part 1: Choose Your Path](#chapter5part1)
     - [Chapter 5 - Part 2: Next Step](#chapter5part2)
-10. [Usage](#usage)
-11. [Contributors](#contributors)
-12. [Contributing](#contributing)
-13. [Roadmap](#roadmap)
-14. [To Do](#todo)
-15. [Contacts](#contacts)
-16. [License](#license)
+11. [Usage](#usage)
+12. [Contributors](#contributors)
+13. [Contributing](#contributing)
+14. [Roadmap](#roadmap)
+15. [To Do](#todo)
+16. [Contacts](#contacts)
+17. [License](#license)
 
 # Project Status <a name="projectstatus"></a>
 
@@ -58,19 +60,19 @@ This tutorial was based in the course from Phd Professor [Nelio Alves - Algorith
 
 # Project Description <a name="projectdescription"></a>
 
-Logical Programming is the first step in the computer science course and the first skill to learn when you want to become a software developer.
+Nowadays, not knowing how to work with computers is considered illiteracy (illiteracy) and the custom for not knowing how to use a computer can be expensive.
 
-Logical Programming must be independent of what programming language you will use because the logic always will be the same.
+When we use computers, we can do many things. A child can use the Internet to send a message, a student can use a spreadsheet to calculate an average or how many points he needs to pass each subject, a cook can save his recipes in software such as Word or in a specialized product for recipes. In fact, the number of specialized products is so great that, if you look carefully, you will certainly find a program that does something very close to what you want.
 
-The basic content of a programming logic course consists:
+The problem is that sometimes we want to do something specific: we want a computer program that does something that will serve us or our company in a unique way. In that case, instead of buying a ready-made program we must develop our own program. For that, it is necessary to master a new way of manipulating the computer: programming. Our motive may be a business, a schoolwork, a hobby or mere curiosity. Nowadays, programming a computer can be done in several ways. You can, for example, slightly modify the behavior of applications using macros, as is allowed in programs such as Microsoft Word. You can make even more serious modifications using built-in languages, as can also be done in Microsoft Office programs or even in computer games like Neverwinter Nights. You can also take an existing open-source program, or free software, and modify it. Or you can start from the beginning and program just about everything, certainly with the help of ready-made libraries that are part of the job.
 
-- Introduction: Algorithms, Programming Language, IDE, Compiler and Interpreter.
-- Sequential Structures: Arithmetic Expressions, Variables, Data Input, Data Processing, Data Output and Mathematical Functions.
-- Conditional Structures: Comparable Expressions, Logical Expressions, Simple Conditional Structure, Compound Conditional Structure and Chaining Conditional Structures.
-- Repetitive Structures: While Repetitive Structure and For Repetitive Structure.
-- Vectors: Theory, Declaration and Creation and Access.
-- Matrices: Theory, Declaration, Creation and Access.
-  
+To program you have many options: packages that can be extended with built-in macros or languages, point-and-click programming environments, languages that are easier to learn and languages that are more difficult, but which have great power or features suitable for large systems. In any case, the spirit behind it is the same: programming is giving orders to the computer, showing how it should react to the user and how it should process the available data.
+
+There is virtually no limit to what you can do with a computer. Computers help people to talk, control devices, and have taken man to the moon in many ways. Even the most difficult things, like simulating a feeling or intelligence, are studied hard all over the world. Some problems are very big and require the construction of huge computers. Others are so simple that we can solve them on simple computers, which are inside equipment. The notion of the powerful also changes over time: a chip that was used in personal computers in 1988, the w: Z80, is now used in devices such as faxes.
+
+Today it is difficult to imagine a domain of human activity where the use of computers is not desirable. Thus, the domain of programming is substantially dictated by imagination and creativity. We can say that the great advantage of knowing how to program is the possibility to create what you want, when you want. Not only for the PC, but cell phones, PDAs, among others. Of course it requires a little effort, but for many that effort is actually a challenge whose reward is to see your idea turned into reality.
+
+
 ## <a name="chapter1"></a>Chapter 1: Introduction
 
 #### <a name="chapter1part1"></a>Chapter 1 - Part 1: Algorithms
@@ -107,6 +109,7 @@ Example of a bubble sort algorithm:
 <div align="center"><img src="img/chapter1/bubble-sort-w388-h291.png" width=388 height=291><br><sub>Fig 1 - Bubble Sort Algorithm Working (https://gaebster.ch/bubblesort/) </sub></div>
 
 <br>
+
 
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Automation
