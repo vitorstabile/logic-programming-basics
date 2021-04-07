@@ -79,18 +79,18 @@ In essence, algorithms are simply a series of instructions that are followed, st
 
 Example of a cake recipe algorithm:
 
-1. Preheat the oven
-2. Gather the ingredients
-3. Measure out the ingredients
-4. Mix together the ingredients to make the batter
-5. Grease a pan
-6. Pour the batter into the pan
-7. Put the pan in the oven
-8. Set a timer
-9. When the timer goes off, take the pan out of the oven
-10. Enjoy!
+1.	Preheat the oven.
+2.	Gather the ingredients.
+3.	Measure out the ingredients.
+4.	Mix the ingredients to make the batter.
+5.	Grease a pan.
+6.	Pour the batter into the pan.
+7.	Put the pan in the oven.
+8.	Set a timer.
+9.	When the timer goes off, take the pan out of the oven.
+10.	Enjoy!
 
-In Mathematic and Computer Science, an algorithm is any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values, as output. An algorithm is thus a sequence of computational steps that transform the input into the output [THOMAS C. CORMEN][cormen-url].
+In Mathematics and Computer Science, an algorithm is any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values, as output. An algorithm is thus a sequence of computational steps that transform the input into the output [THOMAS C. CORMEN][cormen-url].
 
 Example of a bubble sort algorithm:
 
@@ -125,7 +125,7 @@ The automation machine that is capable to automate the bubble sort algorithm is 
 
 #### <a name="chapter1part3"></a>Chapter 1 - Part 3: What is Computers
 
-A machine that is capable to automate calculos algorithms. Usually, it represents a computer in an abstract form by a very simple diagram showing a processing unit capable of using data that comes from or must be stored both in memory and in input and output devices:
+A machine that is capable to automate calculus algorithms. Usually, it represents a computer in an abstract form by a very simple diagram showing a processing unit capable of using data that comes from or must be stored both in memory and in input and output devices:
 
 <br>
 
@@ -133,7 +133,7 @@ A machine that is capable to automate calculos algorithms. Usually, it represent
 
 <br>
 
-A computer have Hardware (Physical parts - machine): 
+A computer has Hardware (Physical parts - machine): 
 
 <br>
 
@@ -141,7 +141,7 @@ A computer have Hardware (Physical parts - machine):
 
 <br>
 
-And a Software (Logical parts - Programms):
+And a Software (Logical parts - Programs):
 
 <br>
 
@@ -149,9 +149,9 @@ And a Software (Logical parts - Programms):
 
 <br>
 
-Computer programms is algorithms executade by the computer. For this, hardware and software work together to get the input of the user, process through software and hardware and output the result in screen.
+Computer programs is algorithms executed by the computer. For this, hardware and software work together to get the input of the user, process through software and hardware and output the result in screen.
 
-To make a Computer Programm we need four things:
+To make a Computer Program we need four things:
 
 - **Programming language:** Lexical and syntactic rules for writing the program.
 
@@ -161,7 +161,7 @@ To make a Computer Programm we need four things:
 
 - **Code generator or virtual machine**: Software that allows the program to run.
 
-The Bubble Algorithm can be automatize with the C program Language. Bellow, there is the source code of the programm:
+The Bubble Algorithm can be automatize with the C program Language. Bellow, there is the source code of the program:
 
 ```c
 #include <stdio.h>
@@ -204,29 +204,29 @@ Programming languages fall into two different classifications — low-level and 
 
 Low-level programming languages are closer to machine code, or binary. Therefore, they’re more difficult for humans to read (although they’re still easier to understand than 1s and 0s). The benefit of low-level languages is that they’re fast and offer precise control over how the computer will function.
 
-High-level programming languages are closer to how humans communicate. High-level languages use words (like object, order, run, class, request, etc.) that are closer to the words we use in our everyday lives. This means they’re easier to program in than low-level programming languages, although they do take more time to translate into machine code for the computer.
+High-level programming languages are closer to how humans communicate. High-level languages use words (like object, order, run, class, request, etc.) that are closer to the words we use in our everyday lives. This means they are easier to program in than low-level programming languages, although they do take more time to translate into machine code for the computer.
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Lexical Rules and Syntax Rules
 
-Programm language have a lexical rules (orthography) and syntax rules (grammar) to write programms.
+Programming language have a lexical rules (orthography) and syntax rules (grammar) to write programs.
 
 - Lexical
 
     Is about the correct words orhography
     
-    | Example English                                 | Example Programm Language  |
-    |:------------------------------------------------|:---------------------------|
-    | Dog (Correct)                                   | Main (Correct)             |
-    | Dogo (Wrong)                                    | Maim (Wrong)               |
+    | Example English                                 | Example Programming Language  |
+    |:------------------------------------------------|:------------------------------|
+    | Dog (Correct)                                   | Main (Correct)                |
+    | Dogo (Wrong)                                    | Maim (Wrong)                  |
     
 - Syntax
 
    Is about the correct sentences grammar
    
-    | Example English                                 | Example Programm Language       |
-    |:------------------------------------------------|:--------------------------------|
-    | He is a Daniel in judgment (Correct)            | x = 2 + y (Correct)             |
-    | Daniel is a He in judgment (Wrong)              | x = + 2 y (Wrong)               |
+    | Example English                                 | Example Programming Language       |
+    |:------------------------------------------------|:-----------------------------------|
+    | He is a Daniel in judgment (Correct)            | x = 2 + y (Correct)                |
+    | Daniel is a He in judgment (Wrong)              | x = + 2 y (Wrong)                  |
     
 
 ## <a name="chapter3"></a>Chapter 3: IDE
