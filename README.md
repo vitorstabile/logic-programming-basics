@@ -60,6 +60,23 @@ This tutorial was based in the course from Phd Professor [Nelio Alves - Algorith
 
 # Project Description <a name="projectdescription"></a>
 
+Logical Programming is the first step in the computer science course and the first skill to learn when you want to become a software developer.
+
+Logical Programming must be independent of what programming language you will use because the logic always will be the same.
+
+The basic content of a programming logic course consists:
+
+- Introduction: Algorithms, Programming Language, IDE, Compiler and Interpreter.
+- Sequential Structures: Arithmetic Expressions, Variables, Data Input, Data Processing, Data Output and Mathematical Functions.
+- Conditional Structures: Comparable Expressions, Logical Expressions, Simple Conditional Structure, Compound Conditional Structure and Chaining Conditional Structures.
+- Repetitive Structures: While Repetitive Structure and For Repetitive Structure.
+- Vectors: Theory, Declaration and Creation and Access.
+- Matrices: Theory, Declaration, Creation and Access.
+
+## <a name="chapter1"></a>Chapter 1: Introduction
+
+#### <a name="chapter1part1"></a>Chapter 1 - Part 1: A Global View
+
 Nowadays, not knowing how to work with computers is considered illiteracy (illiteracy) and the custom for not knowing how to use a computer can be expensive.
 
 When we use computers, we can do many things. A child can use the Internet to send a message, a student can use a spreadsheet to calculate an average or how many points he needs to pass each subject, a cook can save his recipes in software such as Word or in a specialized product for recipes. In fact, the number of specialized products is so great that, if you look carefully, you will certainly find a program that does something very close to what you want.
@@ -71,7 +88,6 @@ To program you have many options: packages that can be extended with built-in ma
 There is virtually no limit to what you can do with a computer. Computers help people to talk, control devices, and have taken man to the moon in many ways. Even the most difficult things, like simulating a feeling or intelligence, are studied hard all over the world. Some problems are very big and require the construction of huge computers. Others are so simple that we can solve them on simple computers, which are inside equipment. The notion of the powerful also changes over time: a chip that was used in personal computers in 1988, the w: Z80, is now used in devices such as faxes.
 
 Today it is difficult to imagine a domain of human activity where the use of computers is not desirable. Thus, the domain of programming is substantially dictated by imagination and creativity. We can say that the great advantage of knowing how to program is the possibility to create what you want, when you want. Not only for the PC, but cell phones, PDAs, among others. Of course it requires a little effort, but for many that effort is actually a challenge whose reward is to see your idea turned into reality.
-
 
 ## <a name="chapter1"></a>Chapter 1: Introduction
 
@@ -109,8 +125,6 @@ Example of a bubble sort algorithm:
 <div align="center"><img src="img/chapter1/bubble-sort-w388-h291.png" width=388 height=291><br><sub>Fig 1 - Bubble Sort Algorithm Working (https://gaebster.ch/bubblesort/) </sub></div>
 
 <br>
-
-
 
 #### <a name="chapter1part2"></a>Chapter 1 - Part 2: Automation
 
