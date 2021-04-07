@@ -60,7 +60,7 @@ This tutorial was based in the course from Phd Professor [Nelio Alves - Algorith
 
 Logical Programming is the first step in the computer science course and the first skill to learn when you want to become a software developer.
 
-Logical Programming have to be independet of what programming language you will use, because the logic always will be the same. 
+Logical Programming must be independent of what programming language you will use because the logic always will be the same.
 
 The basic content of a programming logic course consists:
 
