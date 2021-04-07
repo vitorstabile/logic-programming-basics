@@ -123,7 +123,7 @@ In the example of the algorithm to make a cake, we can automation the process wi
 
 The automation machine that is capable to automate the bubble sort algorithm is the computer.
 
-#### <a name="chapter1part3"></a>Chapter 1 - Part 3: What is Computers
+#### <a name="chapter1part3"></a>Chapter 1 - Part 3: What are Computers
 
 A machine that is capable to automate calculus algorithms. Usually, it represents a computer in an abstract form by a very simple diagram showing a processing unit capable of using data that comes from or must be stored both in memory and in input and output devices:
 
@@ -161,7 +161,7 @@ To make a Computer Program we need four things:
 
 - **Code generator or virtual machine**: Software that allows the program to run.
 
-The Bubble Algorithm can be automatize with the C program Language. Bellow, there is the source code of the program:
+The Bubble Algorithm can be automatizing with the C program Language. Bellow, there is the source code of the program:
 
 ```c
 #include <stdio.h>
@@ -202,17 +202,17 @@ Computers “think” in binary — strings of 1s and 0s. Programming languages 
 
 Programming languages fall into two different classifications — low-level and high-level.
 
-Low-level programming languages are closer to machine code, or binary. Therefore, they’re more difficult for humans to read (although they’re still easier to understand than 1s and 0s). The benefit of low-level languages is that they’re fast and offer precise control over how the computer will function.
+Low-level programming languages are closer to machine code, or binary. Therefore, they are more difficult for humans to read (although they’re still easier to understand than 1s and 0s). The benefit of low-level languages is that they are fast and offer precise control over how the computer will function.
 
 High-level programming languages are closer to how humans communicate. High-level languages use words (like object, order, run, class, request, etc.) that are closer to the words we use in our everyday lives. This means they are easier to program in than low-level programming languages, although they do take more time to translate into machine code for the computer.
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: Lexical Rules and Syntax Rules
 
-Programming language have a lexical rules (orthography) and syntax rules (grammar) to write programs.
+Programming languages have a lexical rules (orthography) and syntax rules (grammar) to write programs.
 
 - Lexical
 
-    Is about the correct words orhography
+    Is about the correct words orthography.
     
     | Example English                                 | Example Programming Language  |
     |:------------------------------------------------|:------------------------------|
@@ -221,7 +221,7 @@ Programming language have a lexical rules (orthography) and syntax rules (gramma
     
 - Syntax
 
-   Is about the correct sentences grammar
+   Is about the correct sentence’s grammar.
    
     | Example English                                 | Example Programming Language       |
     |:------------------------------------------------|:-----------------------------------|
@@ -249,7 +249,7 @@ The source code of a program is specially designed to facilitate the work of com
 
 <br>
 
-To computer understand the source code, this code have to be  assembler or compiler into binary machine code that can be executed by the computer.
+To computer understand the source code, this code must be assembler or compiler into binary machine code that can be executed by the computer.
 
 #### <a name="chapter4part2"></a>Chapter 4 - Part 2: Compilation
 
@@ -263,9 +263,9 @@ Compilation is the process the computer takes to convert a high-level programmin
 
 #### <a name="chapter4part3"></a>Chapter 4 - Part 3: Compiled Languages vs Interpreted Languages
 
-Compiled languages are converted directly into machine native code by a compiler program.They require an explicit build step before execution. That is why we need to rebuild the program every time we make a code change.Compiled languages tend to be faster and more efficient than interpreted languages. However, their generated machine code is platform-specific.
+Compiled languages are converted directly into machine native code by a compiler program. They require an explicit build step before execution. That is why we need to rebuild the program every time we make a code change. Compiled languages tend to be faster and more efficient than interpreted languages. However, their generated machine code is platform specific.
 
-On the other hand, in interpreted languages there are no build steps. Instead, interpreters operate on the source code of the program while executing it.Interpreted languages were once considered significantly slower than compiled languages.
+On the other hand, in interpreted languages there are no build steps. Instead, interpreters operate on the source code of the program while executing. Interpreted languages were once considered significantly slower than compiled languages.
 
 <br>
 
@@ -285,7 +285,7 @@ On the other hand, in interpreted languages there are no build steps. Instead, i
 
 #### <a name="chapter4part4"></a>Chapter 4 - Part 4: Chapter 4 - Part 4: Hybrid Languages
 
-Hybrid compiler is a compiler which translates a human readable source code to an intermediate byte code for later interpretation. So these languages do have both features of a compiler and an interpreter. These types of compilers are commonly known as Just In-time Compilers (JIT).
+Hybrid compiler is a compiler which translates a human readable source code to an intermediate byte code for later interpretation. So, these languages do have both features of a compiler and an interpreter. These types of compilers are commonly known as Just In-time Compilers (JIT).
 
 Java is one good example for these types of compilers.
 
