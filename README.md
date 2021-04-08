@@ -101,7 +101,7 @@ To program you have many options: packages that can be extended with built-in ma
 
 <br>
 
-<div align="center"><img src="img/chapter1/js-example-w4272-h2848.jpg" width=300 height=300><br><sub>Fig 3 - A Example of JavaScript Code, or, a Order to Computer - (<a href='https://unsplash.com/photos/pgSkeh0yl8o?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'>Work created by Christopher Robin Ebbinghaus</a>) </sub></div>
+<div align="center"><img src="img/chapter1/js-example-w4272-h2848.jpg" width=450 height=300><br><sub>Fig 3 - A Example of JavaScript Code, or, a Order to Computer - (<a href='https://unsplash.com/photos/pgSkeh0yl8o?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'>Work created by Christopher Robin Ebbinghaus</a>) </sub></div>
 
 <br>
 
