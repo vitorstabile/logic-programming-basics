@@ -132,7 +132,7 @@ Basic, a computer is a programable, electronic device that accepts data, perform
 
 <br>
 
-<div align="center"><img src="img/chapter2/what-is-computer-w688-h336" width=600 height=300><br><sub>Fig 4 - What is a Computer - (<a href='https://slideplayer.com/user/5454922/'>Work by Clementine Patrick</a>) </sub></div>
+<div align="center"><img src="img/chapter2/what-is-computer-w688-h336.jpg" width=600 height=300><br><sub>Fig 4 - What is a Computer - (<a href='https://slideplayer.com/user/5454922/'>Work by Clementine Patrick</a>) </sub></div>
 
 <br>
 
