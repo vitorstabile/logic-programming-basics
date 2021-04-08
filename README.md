@@ -91,13 +91,19 @@ The problem is that sometimes we want to do something specific: we want a comput
 
 <br>
 
-<div align="center"><img src="img/chapter1/programming-w2000-h2000.jpg" width=300 height=300><br><sub>Fig 1 - Programming - (<a href='https://www.freepik.com/vectors/work'>Work vector created by stories - www.freepik.com</a>) </sub></div>
+<div align="center"><img src="img/chapter1/programming-w2000-h2000.jpg" width=300 height=300><br><sub>Fig 2 - Programming - (<a href='https://www.freepik.com/vectors/work'>Work vector created by stories - www.freepik.com</a>) </sub></div>
 
 <br>
 
 Our motive may be a business, a schoolwork, a hobby or mere curiosity. Nowadays, programming a computer can be done in several ways. You can, for example, slightly modify the behavior of applications using macros, as is allowed in programs such as Microsoft Word. You can make even more serious modifications using built-in languages, as can also be done in Microsoft Office programs or even in computer games like Neverwinter Nights. You can also take an existing open-source program, or free software, and modify it. Or you can start from the beginning and program just about everything, certainly with the help of ready-made libraries that are part of the job.
 
 To program you have many options: packages that can be extended with built-in macros or languages, point-and-click programming environments, languages that are easier to learn and languages that are more difficult, but which have great power or features suitable for large systems. In any case, the spirit behind it is the same: **programming is giving orders to the computer, showing how it should react to the user and how it should process the available data.**
+
+<br>
+
+<div align="center"><img src="img/chapter1/js-example-w4272-h2848.jpg" width=300 height=300><br><sub>Fig 3 - A Example of JavaScript Code, or, a Order to Computer - (<a href='https://unsplash.com/photos/pgSkeh0yl8o?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink'>Work created by Christopher Robin Ebbinghaus</a>) </sub></div>
+
+<br>
 
 There is virtually no limit to what you can do with a computer. Computers help people to talk, control devices, and have taken man to the moon in many ways. Even the most difficult things, like simulating a feeling or intelligence, are studied hard all over the world. Some problems are very big and require the construction of huge computers. Others are so simple that we can solve them on simple computers, which are inside equipment. The notion of the powerful also changes over time: a chip that was used in personal computers in 1988, the w: Z80, is now used in devices such as faxes.
 
