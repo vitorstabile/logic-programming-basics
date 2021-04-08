@@ -7,6 +7,10 @@
 3. [Project Description](#projectdescription)
 4. [Chapter 1: Introduction](#chapter1)
     - [Chapter 1 - Part 1: A Global View](#chapter1part1)
+5. [Chapter 2: What is a Computer?](#chapter2)
+    - [Chapter 2 - Part 1: A Simple Definition](#chapter2part1)
+    - [Chapter 2 - Part 2: How Does it Work](#chapter2part2)
+    - [Chapter 2 - Part 3: Inside a Computer](#chapter2part3)
 6. [Chapter 1: Introduction](#chapter1)
     - [Chapter 1 - Part 1: Algorithms](#chapter1part1)
     - [Chapter 1 - Part 2: Automation](#chapter1part2)
@@ -108,6 +112,29 @@ To program you have many options: packages that can be extended with built-in ma
 There is virtually no limit to what you can do with a computer. Computers help people to talk, control devices, and have taken man to the moon in many ways. Even the most difficult things, like simulating a feeling or intelligence, are studied hard all over the world. Some problems are very big and require the construction of huge computers. Others are so simple that we can solve them on simple computers, which are inside equipment. The notion of the powerful also changes over time: a chip that was used in personal computers in 1988, the w: Z80, is now used in devices such as faxes.
 
 Today it is difficult to imagine a domain of human activity where the use of computers is not desirable. Thus, the domain of programming is substantially dictated by imagination and creativity. We can say that the great advantage of knowing how to program is the possibility to create what you want, when you want. Not only for the PC, but cell phones, PDAs, among others. Of course it requires a little effort, but for many that effort is actually a challenge whose reward is to see your idea turned into reality.
+
+## <a name="chapter2"></a>Chapter 2: What is a Computer?
+
+#### <a name="chapter2part1"></a>Chapter 2 - Part 1: A Simple Definition
+
+#### <a name="chapter2part2"></a>Chapter 2 - Part 2: How Does it Work
+
+#### <a name="chapter2part3"></a>Chapter 2 - Part 3: Inside a Computer
+
+A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks.
+
+Basic, a computer is a programable, electronic device that accepts data, performs operations, presents the results, and store the data or results.
+
+- **Input**: Entering data into the computer
+- **Processing**: Performing operations on the data
+- **Output**: Presenting the results
+- **Storage**: Saving Data, programs, or output for future use
+
+<br>
+
+<div align="center"><img src="img/chapter2/what-is-computer-w688-h336" width=600 height=300><br><sub>Fig 4 - What is a Computer - (<a href='https://slideplayer.com/user/5454922/'>Work by Clementine Patrick</a>) </sub></div>
+
+<br>
 
 ## <a name="chapter1"></a>Chapter 1: Introduction
 
