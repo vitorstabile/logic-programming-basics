@@ -117,10 +117,6 @@ Today it is difficult to imagine a domain of human activity where the use of com
 
 #### <a name="chapter2part1"></a>Chapter 2 - Part 1: A Simple Definition
 
-#### <a name="chapter2part2"></a>Chapter 2 - Part 2: How Does it Work
-
-#### <a name="chapter2part3"></a>Chapter 2 - Part 3: Inside a Computer
-
 A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks.
 
 Basic, a computer is a programable, electronic device that accepts data, performs operations, presents the results, and store the data or results.
@@ -135,6 +131,10 @@ Basic, a computer is a programable, electronic device that accepts data, perform
 <div align="center"><img src="img/chapter2/what-is-computer-w688-h336.jpg" width=600 height=300><br><sub>Fig 4 - What is a Computer - (<a href='https://slideplayer.com/user/5454922/'>Work by Clementine Patrick</a>) </sub></div>
 
 <br>
+
+#### <a name="chapter2part2"></a>Chapter 2 - Part 2: How Does it Work
+
+#### <a name="chapter2part3"></a>Chapter 2 - Part 3: Inside a Computer
 
 ## <a name="chapter1"></a>Chapter 1: Introduction
 
