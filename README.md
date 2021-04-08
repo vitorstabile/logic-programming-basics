@@ -140,7 +140,11 @@ Signs of "1” and "0" can understand as ON and OFF, or, in Digital Electronic, 
 
 A transistor is a little device that either allows the electrons through or it doesn’t; it is either ON or OFF, AKA a 1 or 0.
 
+<br>
 
+<div align="center"><img src="img/chapter2/transistor-w300-h169.jpg" width=300 height=169><br><sub>Fig 5 - A Transistor - (<a href='https://www.lmeservices.com/how-do-computers-work-short-answer/'>Work by Hardware</a>) </sub></div>
+
+<br>
 
 In mathematics, a binary number is used to represent any number using only two numerical numbers that is 0 and 1, and therefore, the binary number system is said be a base 2 number system.
 
@@ -148,15 +152,15 @@ That 1 or 0 (also know as Binary Code) ON or OFF, created by transistor is the b
 
 <br>
 
-<div align="center"><img src="img/chapter2/text-into-binary-w620-h375.gif" width=620 height=375><br><sub>Fig 5 - Convert text into binary - (<a href='https://www.computerhope.com/issues/ch001632.htm'>Work by Computer Hope</a>) </sub></div>
+<div align="center"><img src="img/chapter2/text-into-binary-w620-h375.gif" width=620 height=375><br><sub>Fig 6 - Convert text into binary - (<a href='https://www.computerhope.com/issues/ch001632.htm'>Work by Computer Hope</a>) </sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter2/colour-into-binary-w343-h285.gif" width=343 height=285><br><sub>Fig 6 - Convert colour into binary - (<a href='http://www.cs.ucc.ie/~gavin/cs1050/the_internet/slides/ch07s01s02.html.htm'>Work by School of Computer Science of University College Cork</a>) </sub></div>
+<div align="center"><img src="img/chapter2/colour-into-binary-w343-h285.gif" width=343 height=285><br><sub>Fig 7 - Convert colour into binary - (<a href='http://www.cs.ucc.ie/~gavin/cs1050/the_internet/slides/ch07s01s02.html.htm'>Work by School of Computer Science of University College Cork</a>) </sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter2/image-into-binary-w754-h325.gif" width=754 height=325><br><sub>Fig 7 - Convert bilevel image into binary - (<a href='http://matlab.izmiran.ru/help/toolbox/images/intro4.html'>Work by The MathWorks</a>) </sub></div>
+<div align="center"><img src="img/chapter2/image-into-binary-w754-h325.gif" width=754 height=325><br><sub>Fig 8 - Convert bilevel image into binary - (<a href='http://matlab.izmiran.ru/help/toolbox/images/intro4.html'>Work by The MathWorks</a>) </sub></div>
 
 <br>
 
