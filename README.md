@@ -142,15 +142,15 @@ That 1 or 0 (also know as Binary Code) ON or OFF, created by transistor is the b
 
 <br>
 
-<div align="center"><img src="img/chapter2/text-into-binary-w620-h375.gif" width=600 height=300><br><sub>Fig 5 - Convert text into binary - (<a href='https://www.computerhope.com/issues/ch001632.htm'>Work by Computer Hope</a>) </sub></div>
+<div align="center"><img src="img/chapter2/text-into-binary-w620-h375.gif" width=620 height=375><br><sub>Fig 5 - Convert text into binary - (<a href='https://www.computerhope.com/issues/ch001632.htm'>Work by Computer Hope</a>) </sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter2/colour-into-binary-w343-h285.gif" width=600 height=300><br><sub>Fig 6 - Convert colour into binary - (<a href='http://www.cs.ucc.ie/~gavin/cs1050/the_internet/slides/ch07s01s02.html.htm'>Work by School of Computer Science of University College Cork</a>) </sub></div>
+<div align="center"><img src="img/chapter2/colour-into-binary-w343-h285.gif" width=343 height=285><br><sub>Fig 6 - Convert colour into binary - (<a href='http://www.cs.ucc.ie/~gavin/cs1050/the_internet/slides/ch07s01s02.html.htm'>Work by School of Computer Science of University College Cork</a>) </sub></div>
 
 <br>
 
-<div align="center"><img src="img/chapter2/image-into-binary-w754-h325.gif" width=600 height=300><br><sub>Fig 7 - Convert bilevel image into binary - (<a href='http://matlab.izmiran.ru/help/toolbox/images/intro4.html'>Work by The MathWorks</a>) </sub></div>
+<div align="center"><img src="img/chapter2/image-into-binary-w754-h325.gif" width=754 height=325><br><sub>Fig 7 - Convert bilevel image into binary - (<a href='http://matlab.izmiran.ru/help/toolbox/images/intro4.html'>Work by The MathWorks</a>) </sub></div>
 
 <br>
 
