@@ -134,6 +134,27 @@ Basic, a computer is a programable, electronic device that accepts data, perform
 
 #### <a name="chapter2part2"></a>Chapter 2 - Part 2: How Does it Work
 
+Electricity drives computers and inside him, there are electronic signals. A computer system can understand and execute only program instructions in binary or in simple terms, signs "1” and "0".
+
+In mathematics, a binary number is used to represent any number using only two numerical numbers that is 0 and 1, and therefore, the binary number system is said be a base 2 number system.
+
+That 1 or 0 (also know as Binary Code) ON or OFF, created by transistor is the basis of all computer coding.  Computer’s take these billions of 1’s and 0’s and interpret them however we tell them to.
+
+<br>
+
+<div align="center"><img src="img/chapter2/text-into-binary-w620-h375.gif" width=600 height=300><br><sub>Fig 5 - Convert text into binary - (<a href='https://www.computerhope.com/issues/ch001632.htm'>Work by Computer Hope</a>) </sub></div>
+
+<br>
+
+<div align="center"><img src="img/chapter2/colour-into-binary-w343-h285.gif" width=600 height=300><br><sub>Fig 6 - Convert colour into binary - (<a href='http://www.cs.ucc.ie/~gavin/cs1050/the_internet/slides/ch07s01s02.html.htm'>Work by School of Computer Science of University College Cork</a>) </sub></div>
+
+<br>
+
+<div align="center"><img src="img/chapter2/image-into-binary-w754-h325.gif" width=600 height=300><br><sub>Fig 7 - Convert bilevel image into binary - (<a href='http://matlab.izmiran.ru/help/toolbox/images/intro4.html'>Work by The MathWorks</a>) </sub></div>
+
+<br>
+
+
 #### <a name="chapter2part3"></a>Chapter 2 - Part 3: Inside a Computer
 
 ## <a name="chapter1"></a>Chapter 1: Introduction
