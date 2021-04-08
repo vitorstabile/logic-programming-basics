@@ -136,6 +136,12 @@ Basic, a computer is a programable, electronic device that accepts data, perform
 
 Electricity drives computers and inside him, there are electronic signals. A computer system can understand and execute only program instructions in binary or in simple terms, signs "1” and "0".
 
+Signs of "1” and "0" can understand as ON and OFF, or, in Digital Electronic, with electric current or not.
+
+A transistor is a little device that either allows the electrons through or it doesn’t; it is either ON or OFF, AKA a 1 or 0.
+
+
+
 In mathematics, a binary number is used to represent any number using only two numerical numbers that is 0 and 1, and therefore, the binary number system is said be a base 2 number system.
 
 That 1 or 0 (also know as Binary Code) ON or OFF, created by transistor is the basis of all computer coding.  Computer’s take these billions of 1’s and 0’s and interpret them however we tell them to.
@@ -153,6 +159,14 @@ That 1 or 0 (also know as Binary Code) ON or OFF, created by transistor is the b
 <div align="center"><img src="img/chapter2/image-into-binary-w754-h325.gif" width=754 height=325><br><sub>Fig 7 - Convert bilevel image into binary - (<a href='http://matlab.izmiran.ru/help/toolbox/images/intro4.html'>Work by The MathWorks</a>) </sub></div>
 
 <br>
+
+The programs which interpret binary code have gotten progressively smarter and have multiple layers (or OSI’s) but at their core, all they are doing is using billions of transistors which are simply ON or OFF and interpreting those 1’s and 0’s in whatever preset way you’ve dictated via your computer code
+
+A dumb example, just to simplify:
+
+- **100101101** – Start Microsoft Word
+
+- **001101010** – Close Microsoft Word
 
 
 #### <a name="chapter2part3"></a>Chapter 2 - Part 3: Inside a Computer
