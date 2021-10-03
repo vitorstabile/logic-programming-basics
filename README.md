@@ -90,7 +90,7 @@ When we use computers, we can do many things. A child can use the Internet to se
 
 <br>
 
-<div align="center"><img src="img/chapter1/computer-multitask-w3000-h2000.jpg" width=450 height=300><br><sub>Fig 1 - A Computer Multitask - (<a href='https://www.freepik.com/vectors/people'>People vector created by pikisuperstar - www.freepik.com</a>) </sub></div>
+<div align="center"><img src="img/chapter1/computer-multitask-w3000-h2000.jpg" width=450 height=300><br><sub>Fig 1 - A Computer Multitask - (<a href='https://www.freepik.com/vectors/people'>People vector created by JavaTPoint - https://www.javatpoint.com/</a>) </sub></div>
 
 <br>
 
