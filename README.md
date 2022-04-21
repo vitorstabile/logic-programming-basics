@@ -56,10 +56,6 @@ This project makes a introduce to programming logic. Read this tutorial first, c
 - [Java][java-url]
 - [Python][python-url]
 - [JavaScript][javascript-url]
-- [PHP][php-url]
-- [TypeScript][typescript-url]
-- [MATLAB][matlab-url]
-- [R][r-url]
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
@@ -425,7 +421,6 @@ I elaborated some tutorial for some programming languages, approaching just the 
 - [Java][java-url]
 - [Python][python-url]
 - [JavaScript][javascript-url]
-- [MATLAB][matlab-url]
 
 # Usage <a name="usage"></a>
 
@@ -524,10 +519,6 @@ https://unsplash.com/
 [java-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
 [javascript-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
-[php-url]: https://github.com/vitorstabile/logic-programming-with-php-basics
-[typescript-url]: https://github.com/vitorstabile/logic-programming-with-typescript-basics
-[matlab-url]: https://github.com/vitorstabile/logic-programming-with-matlab-basics
-[r-url]: https://github.com/vitorstabile/logic-programming-with-r-basics
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
 [devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
 [program-introduction-url]: https://pt.wikibooks.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_programa%C3%A7%C3%A3o
