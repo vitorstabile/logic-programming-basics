@@ -415,12 +415,9 @@ Java is one good example for these types of compilers.
 
 I elaborated some tutorial for some programming languages, approaching just the logic programming concepts of the language (Sequential Structures, Conditional Structures, Repetitive Structures, Vectors and Matrices).
 
-- [C][c-url]
-- [C++][cpp-url]
 - [C#][csharp-url]
 - [Java][java-url]
 - [Python][python-url]
-- [JavaScript][javascript-url]
 
 # Usage <a name="usage"></a>
 
@@ -513,12 +510,9 @@ https://unsplash.com/
 [issues-url]: https://github.com/vitorstabile/logic-programming-basics/issues
 [license-shield]: https://img.shields.io/badge/license-mit-blue.svg 
 [license-url]: https://github.com/vitorstabile/logic-programming-basics/blob/main/LICENSE.txt
-[c-url]: https://github.com/vitorstabile/logic-programming-with-c-basics
-[cpp-url]: https://github.com/vitorstabile/logic-programming-with-cpp-basics
 [csharp-url]: https://github.com/vitorstabile/logic-programming-with-csharp-basics
 [java-url]: https://github.com/vitorstabile/logic-programming-with-java-basics
 [python-url]: https://github.com/vitorstabile/logic-programming-with-python-basics
-[javascript-url]: https://github.com/vitorstabile/logic-programming-with-javascript-basics
 [logicalcourse-url]: https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/
 [devsuperior-url]: https://www.youtube.com/watch?v=PfYifUFmXk8
 [program-introduction-url]: https://pt.wikibooks.org/wiki/Introdu%C3%A7%C3%A3o_%C3%A0_programa%C3%A7%C3%A3o
