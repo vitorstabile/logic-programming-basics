@@ -50,12 +50,8 @@ This project is a part of a big project with basic concepts in computer science.
 
 This project makes a introduce to programming logic. Read this tutorial first, choose a programming language and go to these repositories according to the choose programming language:
 
-- [C][c-url]
-- [C++][cpp-url]
-- [C#][csharp-url]
 - [Java][java-url]
 - [Python][python-url]
-- [JavaScript][javascript-url]
 
 [![Project][project-shield]][project-url] <!-- Put the link of the github page of the tutorial her -->
 
@@ -415,7 +411,6 @@ Java is one good example for these types of compilers.
 
 I elaborated some tutorial for some programming languages, approaching just the logic programming concepts of the language (Sequential Structures, Conditional Structures, Repetitive Structures, Vectors and Matrices).
 
-- [C#][csharp-url]
 - [Java][java-url]
 - [Python][python-url]
 
